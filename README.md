@@ -18,10 +18,10 @@ MQ-2 gas sensor — it detects:
 
 
 Circuit Diagram:
-Component | ESP32 Pin
+   Component | ESP32 Pin
 
-MQ-2 A0   | GPIO 34
-MQ-2 VCC  | 3.3V
-MQ-2 GND  | GND
-LED (+)   | GPIO 25
-LED (–)   | GND
+1. MQ-2 A0   | GPIO 34
+2. MQ-2 VCC  | 3.3V
+3. MQ-2 GND  | GND
+4. LED (+)   | GPIO 25
+5. LED (–)   | GND
